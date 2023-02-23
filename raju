@@ -1,0 +1,5 @@
+echo "hello "
+echo "good mrng "
+echo "This is my first git clone program"
+echo"Today date is :"
+date
